@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="/Users/asel/Documents/SDET/videoGame/videoGameTest/src/test/java/testCases">
+        <classes>
+            <class name="testCases.VideoGameApiTest">
+            <methods>
+                <include name="test_getAllVideoGames"/>
+                <include name="test_addNewVideoGame"/>
+                <include name="test_getVideoGame"/>
+                <include name="test_UpdateVideoGame"/>
+                <include name="test_DeleteVideoGame"/>
+            </methods>
+        </class>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c98dec44-3ddd-47dc-872d-ac18b37215ed" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="11 (2)" />
+  </component>
+  <component name="ProjectId" id="1tRt7XPksRg45NR7ktgA0ElsCEx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+  </component>
+  <component name="RunManager" selected="Shell Script.run.sh">
+    <configuration name="run.sh" type="ShConfigurationType" temporary="true">
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/run.sh" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="INTERPRETER_PATH" value="/bin/zsh" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="VideoGameApiTest.test_DeleteVideoGame" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="videoGameTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testCases" />
+      <option name="MAIN_CLASS_NAME" value="testCases.VideoGameApiTest" />
+      <option name="METHOD_NAME" value="test_DeleteVideoGame" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VideoGameApiTest.test_UpdateVideoGame" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="videoGameTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testCases" />
+      <option name="MAIN_CLASS_NAME" value="testCases.VideoGameApiTest" />
+      <option name="METHOD_NAME" value="test_UpdateVideoGame" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VideoGameApiTest.test_getVideoGame" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="videoGameTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testCases" />
+      <option name="MAIN_CLASS_NAME" value="testCases.VideoGameApiTest" />
+      <option name="METHOD_NAME" value="test_getVideoGame" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/asel/Documents/SDET/videoGame/videoGameTest/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="videoGameTest" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Shell Script.run.sh" />
+        <item itemvalue="TestNG./Users/asel/Documents/SDET/videoGame/videoGameTest/testng.xml" />
+        <item itemvalue="TestNG.VideoGameApiTest.test_DeleteVideoGame" />
+        <item itemvalue="TestNG.VideoGameApiTest.test_UpdateVideoGame" />
+        <item itemvalue="TestNG.VideoGameApiTest.test_getVideoGame" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c98dec44-3ddd-47dc-872d-ac18b37215ed" name="Default Changelist" comment="" />
+      <created>1622743562291</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622743562291</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="123" width="1207" height="612" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1622754096458">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="100" y="123" width="1207" height="612" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1440.822/0.-1057.1920.1057@0.23.1440.822" timestamp="1622754096458" />
+    <state width="1365" height="294" key="GridCell.Tab.0.bottom" timestamp="1622767030664">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1365" height="294" key="GridCell.Tab.0.bottom/0.23.1440.821/0.-1057.1920.1057@0.23.1440.821" timestamp="1622767030664" />
+    <state width="1365" height="294" key="GridCell.Tab.0.bottom/0.23.1440.822/0.-1057.1920.1057@0.23.1440.822" timestamp="1622764628674" />
+    <state width="1365" height="305" key="GridCell.Tab.0.bottom/0.23.1440.823/0.-1057.1920.1057@0.23.1440.823" timestamp="1622753332270" />
+    <state width="1365" height="305" key="GridCell.Tab.0.bottom/0.23.1440.825/0.-1057.1920.1057@0.23.1440.825" timestamp="1622753215291" />
+    <state width="1365" height="294" key="GridCell.Tab.0.center" timestamp="1622767030663">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1365" height="294" key="GridCell.Tab.0.center/0.23.1440.821/0.-1057.1920.1057@0.23.1440.821" timestamp="1622767030663" />
+    <state width="1365" height="294" key="GridCell.Tab.0.center/0.23.1440.822/0.-1057.1920.1057@0.23.1440.822" timestamp="1622764628673" />
+    <state width="1365" height="305" key="GridCell.Tab.0.center/0.23.1440.823/0.-1057.1920.1057@0.23.1440.823" timestamp="1622753332269" />
+    <state width="1365" height="305" key="GridCell.Tab.0.center/0.23.1440.825/0.-1057.1920.1057@0.23.1440.825" timestamp="1622753215291" />
+    <state width="1365" height="294" key="GridCell.Tab.0.left" timestamp="1622767030663">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1365" height="294" key="GridCell.Tab.0.left/0.23.1440.821/0.-1057.1920.1057@0.23.1440.821" timestamp="1622767030663" />
+    <state width="1365" height="294" key="GridCell.Tab.0.left/0.23.1440.822/0.-1057.1920.1057@0.23.1440.822" timestamp="1622764628673" />
+    <state width="1365" height="305" key="GridCell.Tab.0.left/0.23.1440.823/0.-1057.1920.1057@0.23.1440.823" timestamp="1622753332268" />
+    <state width="1365" height="305" key="GridCell.Tab.0.left/0.23.1440.825/0.-1057.1920.1057@0.23.1440.825" timestamp="1622753215290" />
+    <state width="1365" height="294" key="GridCell.Tab.0.right" timestamp="1622767030663">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1365" height="294" key="GridCell.Tab.0.right/0.23.1440.821/0.-1057.1920.1057@0.23.1440.821" timestamp="1622767030663" />
+    <state width="1365" height="294" key="GridCell.Tab.0.right/0.23.1440.822/0.-1057.1920.1057@0.23.1440.822" timestamp="1622764628674" />
+    <state width="1365" height="305" key="GridCell.Tab.0.right/0.23.1440.823/0.-1057.1920.1057@0.23.1440.823" timestamp="1622753332269" />
+    <state width="1365" height="305" key="GridCell.Tab.0.right/0.23.1440.825/0.-1057.1920.1057@0.23.1440.825" timestamp="1622753215291" />
+    <state x="234" y="68" key="SettingsEditor" timestamp="1622766178181">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="234" y="68" key="SettingsEditor/0.23.1440.821/0.-1057.1920.1057@0.23.1440.821" timestamp="1622766178181" />
+    <state x="234" y="68" key="SettingsEditor/0.23.1440.822/0.-1057.1920.1057@0.23.1440.822" timestamp="1622764624079" />
+    <state x="675" y="-678" key="com.intellij.ide.util.TipDialog" timestamp="1622743566061">
+      <screen x="0" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="675" y="-678" key="com.intellij.ide.util.TipDialog/0.23.1440.821/0.-1057.1920.1057@0.-1057.1920.1057" timestamp="1622743566061" />
+  </component>
+</project>
